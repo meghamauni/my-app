@@ -71,7 +71,8 @@
           <version>3.0.0</version>
         </plugin>
       </plugins>
-      <reporting>
+    </pluginManagement>
+     <reporting>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -80,6 +81,5 @@
         </plugin>
     </plugins>
 </reporting>
-    </pluginManagement>
   </build>
 </project>
